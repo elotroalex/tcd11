@@ -8,7 +8,7 @@ permalink: /schedule/
 
 **Workshop: Minimal Computing for the UWI community**  
 _2:30 PM–4:30 PM | Pelican Lab_  
-Instructors: Schuyler Esprit, Alex Gil
+Instructors: Schuyler Esprit (Create Caribbean Research Institute-University of the West Indies, Mona), Alex Gil (Yale University)
 
 ## Friday, December 6
 
@@ -16,25 +16,24 @@ Instructors: Schuyler Esprit, Alex Gil
 _10:30 AM–11:00 AM | N1 Neville Hall Lecture Theatre_  
 Schuyler Esprit, Dean Kouwenburg, Kelly Josephs
 
-**Panel 1 | Slavery and Data**  
+**Panel: Slavery and Data**  
 _11:00 AM–12:00 PM | N1_  
-Jessica Marie Johnson, Matthew Smith, Dexnell Peters, Celia Naylor  
+Jessica Marie Johnson (Johns Hopkins University), Dexnell Peters (University of the West Indies, Mona), Celia Naylor (Barnard College), Matthew Smith (University College London)
 Moderator: Alex Gil
 
 **Break**  
 _12:00 PM–12:15 PM | N1_
 
-**Panel 2**  
+**Panel 2: Genealogies, Trajectories, Futures & Institution Building**  
 _12:15 PM–1:15 PM | N1_  
-Luam Stephenson, Stephanie Chancy, Julian Cresser  
-Moderator: Schuyler Esprit
+Luam Stephenson (Create Caribbean Research Institute), Stephanie Chancy (University of Florida), Julian Cresser (University of the West Indies, Mona)
 
 **Lunch**  
 _1:15 PM–2:30 PM | TBD_
 
-**Closing dialogue**  
+**Closing Dialogue: Reparations in the Digital Age**  
 _2:30 PM–3:30 PM | N1_  
-Sonjah Stanley Niaah, Alexandre White, Stanley Griffin  
+Sonjah Stanley Niaah (University of the West Indies, Mona), Alexandre White (Johns Hopkins University), Stanley Griffin (University of the West Indies, Mona)
 Moderator: Kaiama Glover
 
 **Break**  
@@ -46,7 +45,7 @@ Alex Gil
 
 **Microgrant announcements**  
 _4:15 PM–4:30 PM | N1_  
-Andreina Soto
+Andreina Soto (Yale University)
 
 **Closing**  
 _4:30 PM–5:00 PM | N1_
@@ -54,11 +53,11 @@ _4:30 PM–5:00 PM | N1_
 **Reception**  
 _5:30 PM–8:30 PM | 10A Kingston_
 
-**AIR presentation**  
+**Artist In Residence presentation**  
 _TBD | 10A Kingston_  
-Zoe Osborne  
+Zoe Osborne (Artist in Residence)
 Moderator: Kelly Josephs
 
-**CCF presentation**  
+**Caribbean Culture Fund presentation**  
 _TBD | 10A Kingston_  
-Kellie Magnus, Weizman Seide
+Kellie Magnus, Weizman Seide (Caribbean Cultural Fund)
