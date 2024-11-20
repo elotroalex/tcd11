@@ -16,7 +16,7 @@ Instructors: **Schuyler Esprit** (Create Caribbean Research Institute-University
 ### Opening remarks
 
 _10:30 AM–11:00 AM | N1 Neville Hall Lecture Theatre_  
-**Schuyler Esprit** (The University of the West Indies, Mona), **Silvia Kouwenberg** (Dean, Faculty of Humanities and Education, The University of the West Indies, Mona), **Kelly Josephs** (University of Miami)
+**Schuyler Esprit** (The University of the West Indies, Mona), **Silvia Kouwenberg** (Dean, Faculty of Humanities and Education, The University of the West Indies, Mona), **Kelly Baker Josephs** (University of Miami)
 
 ### Panel: Slavery and Data
 
@@ -69,7 +69,7 @@ _5:30 PM–8:30 PM_ \| _10A Kingston_
 
 _TBD | 10A Kingston_  
 **Zoe Osborne** (Artist in Residence)
-Moderator: **Kelly Josephs**
+Moderator: **Kelly Baker Josephs**
 
 ### Caribbean Culture Fund presentation
 
