@@ -67,13 +67,13 @@ _5:30 PM–8:30 PM_ \| _10A Kingston_
 
 ### Artist In Residence presentation
 
-_TBD | 10A Kingston_  
+_10A Kingston_  
 **Zoe Osborne** (Artist in Residence)
 Moderator: **Kelly Baker Josephs**
 
-### Caribbean Culture Fund presentation
+### A Conversation with Grantees of the Caribbean Culture Fund
 
-_TBD | 10A Kingston_  
+_10A Kingston_  
 **Weizman Seide**, **Idris Veitch**, **Kellie Magnus** (Caribbean Cultural Fund)
 
 §
